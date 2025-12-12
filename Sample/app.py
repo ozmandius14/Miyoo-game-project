@@ -7,7 +7,7 @@ class App:
     pygame.init()
 
 # Set up the game window
-    screen = pygame.display.set_mode((, 300))
+    screen = pygame.display.set_mode((400, 300))
     pygame.display.set_caption("Hello Pygame")
 
 # Game loop
